@@ -288,7 +288,7 @@ function App() {
 
             <div className="flex gap-4 pt-4">
               <a
-                href="https://github.com"
+                href="https://github.com/AsadKhan219"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-800 rounded-lg hover:bg-gray-700 transition-all duration-300 hover:scale-110"
@@ -296,7 +296,7 @@ function App() {
                 <Github size={24} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/asad-khan-0260a9253/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-800 rounded-lg hover:bg-gray-700 transition-all duration-300 hover:scale-110"
@@ -304,7 +304,7 @@ function App() {
                 <Linkedin size={24} />
               </a>
               <a
-                href="mailto:asadkhan@email.com"
+                href="mailto:asad.devhub@gmail.com"
                 className="p-3 bg-gray-800 rounded-lg hover:bg-gray-700 transition-all duration-300 hover:scale-110"
               >
                 <Mail size={24} />
